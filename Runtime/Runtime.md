@@ -603,7 +603,7 @@ class_addMethod([self class], sel, (IMP)fooMethod, "v@:");
 
 
 
-![img](/Users/admin/Documents/product/Love/Runtime/Runtime.assets/001.png)
+![img](Runtime.assets/001.png)
 
 
 
